@@ -108,7 +108,7 @@ namespace WindowsFormsApp2
 
                 MessageBox.Show("Vozilo uspješno dodano.");
             }
-            button1_Click(sender, e);
+            button2_Click(sender, e);
         }
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
